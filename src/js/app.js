@@ -17,7 +17,6 @@ import '../css/style.scss';
 const App = () => {
   return(
     <div>
-      <HelloWorld />
       <BookList />
       <ActiveBook />
     </div>
